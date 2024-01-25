@@ -8,8 +8,8 @@ function Sidebar() {
     <div className={styles.sidebar}>
       <Logo />
       <AppNav />
-
       <p>List of cities</p>
+      <div className={styles.spacer}></div> {/* Spacer element */}
       <Footer />
     </div>
   );

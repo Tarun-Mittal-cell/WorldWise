@@ -1,0 +1,9 @@
+.footer {
+  width: 100%; /* Ensure the footer takes full width if necessary */
+  text-align: center; /* Center the text if desired */
+}
+
+.copyright {
+  font-size: 1.2rem;
+  color: var(--color-light--1);
+}
